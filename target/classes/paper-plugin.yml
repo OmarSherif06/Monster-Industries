@@ -1,0 +1,4 @@
+name: MonsterIndustries
+version: '1.0'
+main: org.omar.monsterIndustries.MonsterIndustries
+api-version: '1.21'
