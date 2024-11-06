@@ -6,7 +6,7 @@
 
     <groupId>org.omar</groupId>
     <artifactId>MonsterIndustries</artifactId>
-    <version>1.0</version>
+    <version>1.21.1</version>
     <packaging>jar</packaging>
 
     <name>MonsterIndustries</name>

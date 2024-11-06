@@ -1,2 +1,3 @@
+org\omar\monsterIndustries\Listeners\PlayerStepOnPressurePlateListener.class
 org\omar\monsterIndustries\MonsterIndustries.class
-org\omar\monsterIndustries\Listeners\PlayerStepOnPressurePlateListeners.class
+org\omar\monsterIndustries\Listeners\PlayerStepOnTripwireListener.class
